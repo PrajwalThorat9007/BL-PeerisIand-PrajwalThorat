@@ -16,3 +16,8 @@ Learned about String, String Buffer and String Builder in that I learned what ar
 
 ### What I did today:
 Revised all topic so far I learned. Studied what is difference between SCP and heap memory for string declaration. Learned difference between static and other method type.
+
+## Date:22 Jan 2026
+
+### What I did today:
+learned new concept related to import in Java, in that studied how to import packages, subpackages and static members.Started to learn about access specifier and there scope.Solved more question realted to method, in that I learned how to use inbuild function from Maths class.
