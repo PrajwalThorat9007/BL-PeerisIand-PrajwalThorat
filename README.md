@@ -24,4 +24,5 @@ learned new concept related to import in Java, in that studied how to import pac
 
 ## Date:23 Jan 2026
 
-### What I did today:Learn about Access modifier in java particularly about public class and method, Final class, method and variable, abstract class and method and strictfp class. Practised some question related to string.
+### What I did today:
+Learn about Access modifier in java particularly about public class and method, Final class, method and variable, abstract class and method and strictfp class. Practised some question related to string.
