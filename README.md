@@ -21,3 +21,7 @@ Revised all topic so far I learned. Studied what is difference between SCP and h
 
 ### What I did today:
 learned new concept related to import in Java, in that studied how to import packages, subpackages and static members.Started to learn about access specifier and there scope.Solved more question realted to method, in that I learned how to use inbuild function from Maths class.
+
+## Date:23 Jan 2026
+
+### What I did today:Learn about Access modifier in java particularly about public class and method, Final class, method and variable, abstract class and method and strictfp class. Practised some question related to string.
